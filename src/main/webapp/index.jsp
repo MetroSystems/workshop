@@ -10,4 +10,5 @@
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
+	<p>Version=1.0</p>
 </body>
